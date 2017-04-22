@@ -1,18 +1,17 @@
 {
-   "M1": {
+   "m1": {
       "list": {
          "todo": "TODO"
       },
       "name": "M1"
    },
-   "M2": {
+   "m2": {
       "list": {
-         "kruskal": "Kruskal's Algorithm",
-         "prim": "Prim's Algorithm"
+        "be_aggregation": "BE Aggregation"
       },
       "name": "M2"
    },
-   "E1": {
+   "e1": {
       "list": {
          "todo": "TODO"
       },

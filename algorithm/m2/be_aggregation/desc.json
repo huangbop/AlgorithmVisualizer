@@ -1,0 +1,10 @@
+{
+  "BE Aggregation": "Aggregate the BE entries and send to Flash Scheduler",
+  "Complexity": {
+    "time": "$O(n)$",
+    "space": "$O(n)$"
+  },
+  "files": {
+    "basic": "BE Aggregation"
+  }
+}
