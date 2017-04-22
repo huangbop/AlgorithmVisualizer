@@ -1,21 +1,9 @@
 {
-   "m1": {
-      "list": {
-         "todo": "TODO"
-      },
-      "name": "M1"
-   },
    "m2": {
       "list": {
         "be_aggregation": "BE Aggregation"
       },
       "name": "M2"
-   },
-   "e1": {
-      "list": {
-         "todo": "TODO"
-      },
-      "name": "E1"
    },
    "backtracking": {
       "list": {
