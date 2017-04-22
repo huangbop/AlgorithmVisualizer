@@ -1,4 +1,23 @@
 {
+   "M1": {
+      "list": {
+         "todo": "TODO"
+      },
+      "name": "M1"
+   },
+   "M2": {
+      "list": {
+         "kruskal": "Kruskal's Algorithm",
+         "prim": "Prim's Algorithm"
+      },
+      "name": "M2"
+   },
+   "E1": {
+      "list": {
+         "todo": "TODO"
+      },
+      "name": "E1"
+   },
    "backtracking": {
       "list": {
          "knight's_tour": "Knight’s tour problem",
